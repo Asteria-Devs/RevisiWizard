@@ -187,6 +187,11 @@
       "methods": ["Exclamation", "Tone: Regret"]
     },
     {
+      "quote": "look mummy isn't it a beauty",
+      "judiciousness": 55,
+      "methods": ["adjective - Not many methods here", "Tone: Materialistic"]
+    },
+    {
       "quote": "I think it was a mean thing to do. Perhaps that spoilt everything for her",
       "judiciousness": 65,
       "methods": ["Reflection", "Judgement"]
